@@ -1,0 +1,10 @@
+groq
+ipykernel
+dotenv
+langchain
+langchain-groq
+google-genai
+langchain-google-genai
+pydantic
+langgraph
+langchain-tavily
